@@ -8,16 +8,16 @@ function Masthead() {
         style={{ flexDirection: "column" }}
       >
         <div className="col-lg-7 text-white font-weight-bold display-1 text-center">
-          Welcome to GGU sign!
+          Welcome to GDGC ggv sign!
         </div>
         <div className="col-lg-4 divider my-4" />
         <div
           className="col-lg-7 container text-white-50 lead text-center"
           style={{ fontSize: "5rem !important" }}
         >
-          The complete toolkit for Indian Sign Language. Explore our range of
-          features which have been carefully designed keeping in mind the
-          specific needs of people related to ISL.
+          The complete application for Indian Sign Language. Explore our all of the
+          features which have been designed keeping in mind the
+          specific needs of people related to the sign language that is spoken in india.
         </div>
         <div className="d-flex justify-content-center mt-5">
           <a className="btn btn-info btn-lg px-3" href="#intro">

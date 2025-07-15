@@ -21,7 +21,7 @@ function Footer() {
                         <div className="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
                             <h6 className="text-uppercase font-weight-bold">GGU Sign</h6>
                             <hr className="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style={{width:'60px'}}/>
-                            <p className='footer-text'>A indian sign language detector.</p>
+                            <p className='footer-text'>An indian sign language detector.</p>
                         </div>
                         <div className="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
                             <h6 className="text-uppercase font-weight-bold">Services</h6>
